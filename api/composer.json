@@ -1,0 +1,9 @@
+{
+    "name": "dev/api",
+    "autoload": {
+        "psr-4": {
+            "senhasegura\\Api\\": "app/"
+        }
+    },
+    "require": {}
+}
