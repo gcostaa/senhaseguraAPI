@@ -2,7 +2,7 @@
 Estudos
 
 Author: Gustavo Costa de Oliveira Arruda
-Date: 2021/05/11
+Date: 2021/10/11
 
 Description: Integration with the senhasegura API for credentials password 
 query (version 1.0)
